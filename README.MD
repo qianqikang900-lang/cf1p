@@ -6,8 +6,8 @@
 
 ## 订阅链接
 
-- 高速优选：`https://raw.githubusercontent.com/qianqikang900-lang/cfip/refs/heads/main# README 中订阅链接的基础地址，通常是 GitHub Raw 或 R2 公网地址/best_ips.txt`
-- 所有可用：`https://raw.githubusercontent.com/qianqikang900-lang/cfip/refs/heads/main# README 中订阅链接的基础地址，通常是 GitHub Raw 或 R2 公网地址/full_ips.txt`
+- 高速优选：`https://raw.githubusercontent.com/qianqikang900-lang/cfip/refs/heads/main/best_ips.txt`
+- 所有可用：`https://raw.githubusercontent.com/qianqikang900-lang/cfip/refs/heads/main/full_ips.txt`
 
 ## 使用方法
 
